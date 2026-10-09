@@ -1,0 +1,6 @@
+{
+  "name": "ระบบการเรียนการสอนภาคสมทบ E-learning",
+  "description": "ระบบการเรียนการสอนและทดสอบออนไลน์ภาคสมทบ (ปวช./ปวส.) พร้อมระบบ 3 บทบาท คลังข้อสอบ 40 ข้อ และเชื่อมต่อฐานข้อมูล Google Sheets Apps Script",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
